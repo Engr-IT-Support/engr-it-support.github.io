@@ -48,7 +48,7 @@ Some EIS spaces may have additional rules in place, which will be made clearly a
 
 ## Reporting ##
 
-If you are being harassed by a member of EIS, notice that someone else is being harassed, or have any other concerns, please contact [@cate](https://eng-managers.slack.com/team/cate), [@steveb](https://eng-managers.slack.com/team/steveb), [@jeanhsu](https://eng-managers.slack.com/team/jeanhsu), [@marc](https://eng-managers.slack.com/team/marc), or [@ichthyos](https://eng-managers.slack.com/team/ichthyos) directly via DM.
+If you are being harassed by a member of EIS, notice that someone else is being harassed, or have any other concerns, please contact [@cate](https://eng-managers.slack.com/team/cate) directly via DM.
 
 This code of conduct applies to EIS spaces, but if you are being harassed by a member of EIS outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by EIS members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from EIS based on their past behavior, including behavior outside EIS spaces and behavior towards people who are not in EIS.
 
